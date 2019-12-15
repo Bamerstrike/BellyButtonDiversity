@@ -1,5 +1,5 @@
 // call json 
-const bioData = "../../samples.json"
+const bioData = "https://bamerstrike.github.io/BellyButtonDiversity/samples.json"
 
 // make dataset readable with javascript
 Dataset = d3.json(bioData)
